@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "world.kairom/kairom",
+  "title": "Kairom",
+  "description": "Europe systems engine: what a site depends on, and what-if strikes, outages and price shocks",
+  "version": "1.0.0",
+  "websiteUrl": "https://kairom.world/docs",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://kairom.world/mcp" }
+  ]
+}
