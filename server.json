@@ -6,6 +6,13 @@
   "version": "1.0.0",
   "websiteUrl": "https://kairom.world/docs",
   "remotes": [
-    { "type": "streamable-http", "url": "https://kairom.world/mcp" }
-  ]
+    {
+      "type": "streamable-http",
+      "url": "https://kairom.world/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/dfifth/mcp",
+    "source": "github"
+  }
 }
